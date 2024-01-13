@@ -1,0 +1,11 @@
+/* styles.css */
+
+body {
+    background-color: #516db3;
+    color: rgb(0, 0, 0); 
+    font-family: 'Arial', sans-serif;
+}
+
+.comment {
+    color: green;
+}
