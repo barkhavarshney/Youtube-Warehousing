@@ -33,6 +33,13 @@ Ethical considerations are paramount when engaging in YouTube content scraping. 
 - `pymongo`
 - `pandas`
 
+## Installation
+
+```bash
+pip install googleapiclient streamlit psycopg2 pymongo pandas
+
+```
+
 ## Features:
 
 The YouTube Data Harvesting and Warehousing application offers the following functions:
