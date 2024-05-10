@@ -33,7 +33,7 @@ Ethical considerations are paramount when engaging in YouTube content scraping. 
 - `pymongo`
 - `pandas`
 
-## Installation
+## Installation:
 
 ```bash
 pip install google-api-python-client streamlit psycopg2 pymongo pandas
