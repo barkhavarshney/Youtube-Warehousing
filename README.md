@@ -21,9 +21,13 @@ The YouTube Data Harvesting and Warehousing project is designed to empower users
 - **PostgreSQL:** 
   - An open-source and highly scalable database management system, PostgreSQL is known for its reliability and extensive features. It provides a platform for storing and managing structured data, supporting various data types and advanced SQL capabilities.
 
-## Ethical Perspective on YouTube Data Scraping:
+## 📖 Ethical Perspective on YouTube Data Scraping
+Engaging in YouTube data scraping demands ethical responsibility. It is crucial to:
 
-Ethical considerations are paramount when engaging in YouTube content scraping. Adhering to YouTube's terms and conditions, obtaining proper authorization, and following data protection regulations are essential. Responsible handling of collected data, ensuring privacy and confidentiality, and preventing misuse are critical aspects. Consideration for the potential impact on the platform and its community is crucial, aiming for a fair and sustainable scraping process to uphold integrity.
+-Adhere to YouTube's terms of service.
+-Obtain proper authorization and comply with data protection regulations.
+-Handle data responsibly, ensuring privacy and avoiding misuse.
+-Respect the YouTube community and the platform’s integrity.
 
 ## Required Libraries:
 
@@ -36,7 +40,11 @@ Ethical considerations are paramount when engaging in YouTube content scraping. 
 ## Installation:
 
 ```bash
-pip install google-api-python-client streamlit psycopg2 pymongo pandas
+pip install google-api-python-client
+pip install streamlit
+pip install psycopg2
+pip install pymongo
+pip install pandas
 
 ```
 
