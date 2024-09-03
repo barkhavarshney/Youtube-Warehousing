@@ -1,6 +1,4 @@
-# YouTube-Warehousing
-
-**Using Postgresql, MongoDB and Streamlit**
+# YouTube-Warehousing Using Postgresql, MongoDB and Streamlit
 
 The YouTube Data Harvesting and Warehousing project is designed to empower users to access and analyze data from various YouTube channels. The application utilizes SQL, MongoDB, and Streamlit to create a user-friendly interface for retrieving, saving, and querying YouTube channel and video data.
 
@@ -48,14 +46,20 @@ pip install pandas
 
 ```
 
-## Features:
 
-The YouTube Data Harvesting and Warehousing application offers the following functions:
+## 🎯 Key Features
+The application provides several key functionalities:
 
-- Retrieval of channel and video data from YouTube using the YouTube API.
-- Storage of data in a MongoDB database as a data lake.
-- Migration of data from the data lake to a SQL database for efficient querying and analysis.
-- Search and retrieval of data from the SQL database using different search options.
+- `Data Retrieval: Fetch YouTube channel and video data using YouTube API.`
+- `Data Storage: Store retrieved data in MongoDB for flexible schema management.`
+- `Data Migration: Transfer data from MongoDB to PostgreSQL for robust querying.`
+- `Data Querying: Utilize SQL queries to analyze data efficiently.`
 
-For a Python code implementation, consider the following code snippets for each feature. Please note that these are simplified examples, and actual implementation may require additional considerations based on the specific project requirements and architecture.
+## 📂 Installation
+Clone the repository and install the required dependencies:
+```bash
+git clone https://github.com/yourusername/YouTube-Warehousing.git
+cd YouTube-Warehousing
+pip install -r requirements.txt
+```
 
