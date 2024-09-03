@@ -24,10 +24,10 @@ The YouTube Data Harvesting and Warehousing project is designed to empower users
 ## 📖 Ethical Perspective on YouTube Data Scraping
 Engaging in YouTube data scraping demands ethical responsibility. It is crucial to:
 
--Adhere to YouTube's terms of service.
--Obtain proper authorization and comply with data protection regulations.
--Handle data responsibly, ensuring privacy and avoiding misuse.
--Respect the YouTube community and the platform’s integrity.
+- `Adhere to YouTube's terms of service.`
+- `Obtain proper authorization and comply with data protection regulations.`
+- `Handle data responsibly, ensuring privacy and avoiding misuse.`
+- `Respect the YouTube community and the platform’s integrity.`
 
 ## Required Libraries:
 
