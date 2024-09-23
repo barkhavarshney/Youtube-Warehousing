@@ -58,7 +58,7 @@ The application provides several key functionalities:
 ## 📂 Installation
 Clone the repository and install the required dependencies:
 ```bash
-git clone https://github.com/yourusername/YouTube-Warehousing.git
+git clone https://github.com/barkhavarshney/YouTube-Warehousing.git
 cd YouTube-Warehousing
 pip install -r requirements.txt
 ```
